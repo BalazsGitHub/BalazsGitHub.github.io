@@ -1,8 +1,8 @@
-# BalazsGitHub.github.io
+--BalazsGitHub.github.io
 
 # Kea_DAT21I_Tech1_testing
 
-## Sub title
+## Sub Zero title
 
 ### Even smaller
 
@@ -16,4 +16,4 @@ This is for normal text.
 
 ~~Strikethrough~~
 
-[The repository](htttps://balazsgithub.github.com)
+[The repository](https://balazsgithub.github.io)
